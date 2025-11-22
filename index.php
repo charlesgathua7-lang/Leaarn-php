@@ -1,5 +1,13 @@
-#learning how to code in php
+//hello world
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
 <?php
-echo    
+echo "Hello World!";
 ?>
 
+</body>
+</html>
